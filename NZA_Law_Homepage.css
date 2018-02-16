@@ -1,0 +1,68 @@
+.rightcolumn {
+    float: right;
+    width: 25%;
+}
+.card {
+  background-color: darkred;
+  color: white;
+  padding: 5px;
+}
+
+.card3 {
+  background-color: darkred;
+  color: white;
+  padding: 5px;
+  width: 25%;
+}
+
+.cardtwo {
+  float: right;
+  background-color: white;
+  padding-left: 15px;
+  width: 50%;
+}
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+}
+
+.centercolumn {
+  float: center;
+  width: 50%;
+}
+body {
+	background: transparent url("Front page/nza_background.jpg");
+}
+.container {
+	background-color: white;
+	margin: 0 auto;
+	width: 70%;
+	height: 850px;
+}
+#nav_bar ul li {
+	list-style: none;
+	float: left;
+	display: inline;
+}
+li {
+  display:inline;
+  list-style:none;
+}
+.foot {
+  margin-left:0px;
+  margin-top:600px;
+
+}
+ul {
+  font-size:11px;
+  text-align:center;
+}
+#mdash {
+  color:#c0c0c0;
+}
+#foot-cr {
+  color:#c0c0c0;
+  font-size:10px;
+  text-align:center;
+}
